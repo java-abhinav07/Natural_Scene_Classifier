@@ -22,6 +22,6 @@ The classifier achieves a 91% training accuracy and 76% validation accuracy havi
 
 Improvements
 -------------
-* *Clearly the validation accuracy is not up to the mark, and overfitting needs to be reduced by including regularization.
-* *An end to end browser based framework which runs this model and labels image files, ie a visual interface for the same.
+* Clearly the validation accuracy is not up to the mark, and overfitting needs to be reduced by including regularization.
+* An end to end browser based framework which runs this model and labels image files, ie a visual interface for the same.
 
